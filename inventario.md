@@ -2,9 +2,11 @@
 2082852
 
 componenti
-- processori
-- schede_madri.md
+-processori.md
+-schede_madri.md
 
 periferiche
+-tastiere.md
+-mouse.md
 
 Elettronica_Padovana
